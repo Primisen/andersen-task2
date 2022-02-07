@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>We was do it!</h2>
+<h1>We was do it!</h1>
 <img src="image/hi_kitty.png"/>
 </body>
 </html>
