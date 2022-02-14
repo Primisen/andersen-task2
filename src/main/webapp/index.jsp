@@ -4,7 +4,7 @@
 </head>
 <body>
 
-	<h2>Hi!</h2>
+	<h2>Hi, Java!</h2>
 	
 	<img src="image/hi_kitty.png" />
 
