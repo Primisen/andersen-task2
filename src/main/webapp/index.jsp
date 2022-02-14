@@ -6,10 +6,10 @@
 
 	<h2>Hi!</h2>
 
-	<a href="/all">Read all</a>
-	<a href="/add">Add</a>
-	<a href="/edit">Edit</a>
-	<a href="/delete">Delete</a>
+	<a href="/andersen/all">Read all</a>
+	<a href="/andersen/add">Add</a>
+	<a href="/andersen/edit">Edit</a>
+	<a href="/andersen/delete">Delete</a>
 
 	<img src="image/hi_kitty.png" />
 	
