@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConnectorToDB {
 
-	private static final String URL = "jdbc:postgresql://192.168.31.70/application"; // эти данные закинуть бы в ресурсы
+	private static final String URL = "jdbc:postgresql://192.168.31.71/application"; // эти данные закинуть бы в ресурсы
 	private static final String USERNAME = "nadia";
 	private static final String PASSWORD = "111";
 
